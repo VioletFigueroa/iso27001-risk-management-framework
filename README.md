@@ -33,8 +33,8 @@ Comprehensive risk management plan aligned with ISO 27001 information security m
 - Audit and compliance tools
 
 ## Files Included
-- [DHAEI Risk Management Plan.pdf](DHAEI%20Risk%20Management%20Plan.pdf) - Formal risk management plan
-- [DHAEI Risk Management Plan.md](DHAEI%20Risk%20Management%20Plan.md) - Plan in Markdown format
-- [DHAEI Risk Management Plan - Sheet 1.csv](DHAEI%20Risk%20Management%20Plan%20-%20Sheet%201.csv) - Risk assessment data
-- [DHAEI Risk Management Plan.xlsx](DHAEI%20Risk%20Management%20Plan.xlsx) - Risk analysis spreadsheet
-- [iso27001-risk-management.md](iso27001-risk-management.md) - Extended project documentation
+- [DHAEI Risk Management Plan.pdf](DHAEI%20Risk%20Management%20Plan.pdf) - Formal risk management plan (PDF format)
+- [DHAEI Risk Management Plan.md](DHAEI%20Risk%20Management%20Plan.md) - Plan in Markdown format for easy viewing and editing
+- [DHAEI Risk Management Plan.xlsx](DHAEI%20Risk%20Management%20Plan.xlsx) - Risk analysis spreadsheet with quantitative assessments
+- [DHAEI Risk Management Plan - Sheet 1.csv](DHAEI%20Risk%20Management%20Plan%20-%20Sheet%201.csv) - Risk assessment data in CSV format
+- [iso27001-risk-management.md](iso27001-risk-management.md) - Extended project documentation and framework details
