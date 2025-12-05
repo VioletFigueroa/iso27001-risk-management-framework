@@ -1,5 +1,14 @@
 # ISO 27001 Risk Management
 
+![GitHub last commit](https://img.shields.io/github/last-commit/VioletFigueroa/iso27001-risk-management-framework?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/VioletFigueroa/iso27001-risk-management-framework?style=flat-square)
+![License](https://img.shields.io/badge/license-Educational-blue?style=flat-square)
+![Release](https://img.shields.io/github/v/release/VioletFigueroa/iso27001-risk-management-framework?style=flat-square)
+
+**Quick Links:** [Documentation](README.md) | [Security Policy](SECURITY.md) | [Contributing](CONTRIBUTING.md) | [Release](https://github.com/VioletFigueroa/iso27001-risk-management-framework/releases/tag/v1.0.0)
+
+---
+
 ## Overview
 Comprehensive risk management plan aligned with ISO 27001 information security management standards. This project demonstrates a systematic approach to identifying, analyzing, and mitigating information security risks within an organization.
 
