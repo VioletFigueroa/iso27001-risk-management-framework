@@ -8,6 +8,15 @@
 
 ---
 
+**How to view artifacts:** Core plan in `DHAEI Risk Management Plan.pdf`; data in `DHAEI Risk Management Plan.xlsx` and `DHAEI Risk Management Plan - Sheet 1.csv`; narrative in `iso27001-risk-management.md`.
+
+**Result snapshot:** Built ISO 27001-aligned risk register with prioritized controls and monitoring plan.
+
+**Quick review:**
+- Docs: `DHAEI Risk Management Plan.pdf`
+- Evidence/data: `DHAEI Risk Management Plan.xlsx`, `...Sheet 1.csv`
+- Start with: Risk register section, then Annex A control mapping
+
 ## Overview
 Comprehensive risk management plan aligned with ISO 27001 information security management standards. This project demonstrates a systematic approach to identifying, analyzing, and mitigating information security risks within an organization.
 
@@ -39,6 +48,10 @@ Comprehensive risk management plan aligned with ISO 27001 information security m
 - Spreadsheet analysis and risk matrices
 - Control mapping frameworks
 - Audit and compliance tools
+
+## Lessons Learned
+- Linking assets → threats → controls keeps the register actionable.
+- Quant + qual scoring helps translate risk to leadership-friendly language.
 
 ## Files Included
 - [DHAEI Risk Management Plan.pdf](DHAEI%20Risk%20Management%20Plan.pdf) - Formal risk management plan (PDF format)
