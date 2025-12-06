@@ -1,9 +1,3 @@
----
-title: "DHAEI Risk Management Plan"
-draft: true
-tags: ["ISO 27001", "risk management", "compliance", "enterprise risk", "assessment"]
-description: "Enterprise risk management plan following ISO 27001 framework with risk assessment, asset inventory, threat analysis, and risk acceptance criteria."
----
 
 # DHAEI Risk Management Plan
 
